@@ -2,6 +2,8 @@
 
 ### Senior Software Engineer | Software Architect | Enterprise Systems | EAM | Distributed Systems | AI
 
+**Shiv Kumar** · Software Architect · Noida, India · 🌐 [shivkumarsinghsky.github.io](https://shivkumarsinghsky.github.io/)
+
 I am a Senior Software Engineer / Software Architect with **12+ years of experience** designing and building enterprise-grade software platforms, distributed systems, scalable applications and real-time solutions.
 
 My experience spans **software architecture, microservices, event-driven systems, enterprise applications, cloud platforms, real-time monitoring, EAM/FSM platforms and AI-powered applications**.
