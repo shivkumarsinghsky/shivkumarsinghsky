@@ -168,66 +168,40 @@ Current areas of focus:
 
 ## 📚 Featured Engineering Projects
 
-### 🏢 Enterprise SaaS Platform
+Reference architectures and implementations with design docs, Architecture Decision Records (ADRs),
+Mermaid diagrams, tests, Docker and CI.
 
-A production-oriented multi-tenant SaaS architecture demonstrating:
+### 🏗️ Architecture & Distributed Systems
 
-- Microservices
-- Multi-tenancy
-- Authentication & RBAC
-- API Gateway
-- PostgreSQL
-- Redis
-- Event-driven architecture
-- Docker
-- CI/CD
-- Observability
+| Repository | What it covers |
+|---|---|
+| [**system-design-architecture**](https://github.com/shivkumarsinghsky/system-design-architecture) | System design knowledge base: 12 reference designs with capacity models, ADRs and diagrams |
+| [**microservices-patterns**](https://github.com/shivkumarsinghsky/microservices-patterns) | Microservices patterns catalogue in TypeScript: saga, outbox, CQRS, event sourcing, circuit breaker |
+| [**event-driven-platform**](https://github.com/shivkumarsinghsky/event-driven-platform) | Event-driven architecture with RabbitMQ, transactional outbox, idempotent consumers, retries and DLQ |
+| [**enterprise-saas-platform**](https://github.com/shivkumarsinghsky/enterprise-saas-platform) | Multi-tenant SaaS: PostgreSQL row-level security, tenant-aware auth, RBAC, entitlements, audit logs |
 
----
+### 🏢 Enterprise Asset Management & Real-Time Systems
 
-### 📡 Real-Time Monitoring Platform
+| Repository | What it covers |
+|---|---|
+| [**eam-platform-architecture**](https://github.com/shivkumarsinghsky/eam-platform-architecture) | EAM / FSM reference architecture: work orders, maintenance, asset hierarchy, telemetry, reporting |
+| [**realtime-monitoring-platform**](https://github.com/shivkumarsinghsky/realtime-monitoring-platform) | Real-time monitoring: MQTT ingestion, Redis Streams/Kafka, alerting, PostgreSQL, live WebSocket dashboard |
 
-Enterprise monitoring architecture using:
+### 🤖 Generative AI & Agentic AI
 
-- MQTT
-- Kafka / RabbitMQ
-- Redis
-- Node.js
-- MongoDB
-- Real-time telemetry
-- Host & service monitoring
-- Alert processing
-- Event-driven architecture
+| Repository | What it covers |
+|---|---|
+| [**rag-enterprise-assistant**](https://github.com/shivkumarsinghsky/rag-enterprise-assistant) | Enterprise RAG: hybrid retrieval (vector + BM25), pgvector, ACL filtering, citations, guardrails, evaluation |
+| [**enterprise-ai-agent-platform**](https://github.com/shivkumarsinghsky/enterprise-ai-agent-platform) | AI agent platform: LangGraph orchestration, tool calling, RAG, memory, human-in-the-loop approvals |
 
----
+### 🌐 Large-Scale System Design
 
-### 🤖 Enterprise AI Agent Platform
-
-AI platform demonstrating:
-
-- LLM integration
-- RAG
-- LangChain
-- LangGraph
-- Agentic workflows
-- Tool calling
-- Enterprise knowledge retrieval
-- AI-powered automation
-
----
-
-### 🏗️ EAM / FSM Platform
-
-Architecture concepts and implementations around:
-
-- Enterprise Asset Management
-- Field Service Management
-- Asset lifecycle
-- Work orders
-- Maintenance
-- Service operations
-- Monitoring
-- Enterprise integrations
+| Repository | What it covers |
+|---|---|
+| [**realtime-messaging-platform**](https://github.com/shivkumarsinghsky/realtime-messaging-platform) | Chat system design: WebSocket gateways, message ordering, delivery/read receipts, presence |
+| [**video-streaming-platform**](https://github.com/shivkumarsinghsky/video-streaming-platform) | Video sharing system design: resumable uploads, transcoding, HLS adaptive streaming, CDN |
+| [**social-media-platform**](https://github.com/shivkumarsinghsky/social-media-platform) | News feed system design: hybrid fan-out, social graph, caching, notifications |
+| [**job-portal-platform**](https://github.com/shivkumarsinghsky/job-portal-platform) | Job portal system design: job search with facets, candidate matching, application workflow |
 
 ---
 
