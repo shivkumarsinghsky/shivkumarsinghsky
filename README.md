@@ -4,7 +4,7 @@
 
 **Shiv Kumar** · Software Architect · Noida, India · 🌐 [shivkumarsinghsky.github.io](https://shivkumarsinghsky.github.io/)
 
-[Website](https://shivkumarsinghsky.github.io/) | [LinkedIn](https://www.linkedin.com/in/shivkumarsinghsky/) | [Instagram](https://www.instagram.com/shivkumarsinghsky/) | [Facebook](https://www.facebook.com/shivkumarsinghsky) | [GitHub](https://github.com/shivkumarsinghsky)
+[Website](https://shivkumarsinghsky.github.io/) | [LinkedIn](https://www.linkedin.com/in/shivkumarsinghsky/) | [Instagram](https://www.instagram.com/shivkumarsinghsky/) | [GitHub](https://github.com/shivkumarsinghsky) | [shivkumarsky01@gmail.com](mailto:shivkumarsky01@gmail.com)
 
 I am a Senior Software Engineer / Software Architect with **12+ years of experience** designing and building enterprise-grade software platforms, distributed systems, scalable applications and real-time solutions.
 
