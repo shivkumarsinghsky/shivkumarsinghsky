@@ -203,6 +203,13 @@ Mermaid diagrams, tests, Docker and CI.
 | [**social-media-platform**](https://github.com/shivkumarsinghsky/social-media-platform) | News feed system design: hybrid fan-out, social graph, caching, notifications |
 | [**job-portal-platform**](https://github.com/shivkumarsinghsky/job-portal-platform) | Job portal system design: job search with facets, candidate matching, application workflow |
 
+### 🧰 Developer Tooling & Machine Learning
+
+| Repository | What it covers |
+|---|---|
+| [**zynkoh-cli**](https://github.com/shivkumarsinghsky/zynkoh-cli) | Code generator CLI for Clean Architecture FastAPI modules: tenant-scoped repositories, CRUD, end-to-end tested output |
+| [**learnix**](https://github.com/shivkumarsinghsky/learnix) | Machine learning from scratch: linear regression, loss functions and gradient descent in pure Python |
+
 ---
 
 ## 📐 Architecture Principles
