@@ -57,6 +57,7 @@ TypeScript
 JavaScript
 .NET / C#
 Express.js
+Python / FastAPI
 REST APIs
 ```
 
